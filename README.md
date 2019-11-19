@@ -8,5 +8,5 @@ Leetcode solutions
 ### 示例：
   cpp/98/Validate_Binary_Search_Tree2.cpp  
   
-**反面教材：**  
-  ## javaNiubility/Base.java
+## 每日一题
+146.  [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/).
