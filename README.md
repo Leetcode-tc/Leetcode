@@ -8,5 +8,7 @@ Leetcode solutions
 ### 示例：
   cpp/98/Validate_Binary_Search_Tree2.cpp  
   
-## 每日一题
-146.  [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/).
+## 每日一题  
+753.[破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe/).  
+## 最近一周  
+* 11/19/2019: 146.[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/).
