@@ -16,3 +16,5 @@ Leetcode solutions
   * [Cycles and Circuits](http://www.mathcs.emory.edu/~rg/book/chap5.pdf)
 ## 最近一周  
 * 11/19/2019: 146.[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/).
+   * [LRU原理](https://zhuanlan.zhihu.com/p/34133067)  
+   * [hash-based map vs tree-based map](https://www.geeksforgeeks.org/map-vs-unordered_map-c/)
