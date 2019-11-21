@@ -9,12 +9,14 @@ Leetcode solutions
   cpp/98/Validate_Binary_Search_Tree2.cpp  
   
 ## 每日一题  
-753.[破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe/).  
-### 参考资料
-  * [Euler paths and Euler circuits](http://jlmartin.faculty.ku.edu/~jlmartin/courses/math105-F11/Lectures/chapter5-part2.pdf)  
-  * [Hierholzer algorithm](https://www-m9.ma.tum.de/graph-algorithms/hierholzer/index_en.html#:~:targetText=The%20basic%20idea%20of%20Hierholzer's,first%20circle%20in%20the%20graph.)  
-  * [Cycles and Circuits](http://www.mathcs.emory.edu/~rg/book/chap5.pdf)
+
+322.[零钱兑换](https://leetcode-cn.com/problems/coin-change/).  
+
 ## 最近一周  
+* 11/20/2019: 753.[破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe/).  
+   * [Euler paths and Euler circuits](http://jlmartin.faculty.ku.edu/~jlmartin/courses/math105-F11/Lectures/chapter5-part2.pdf)  
+   * [Hierholzer algorithm](https://www-m9.ma.tum.de/graph-algorithms/hierholzer/index_en.html#:~:targetText=The%20basic%20idea%20of%20Hierholzer's,first%20circle%20in%20the%20graph.)  
+   * [Cycles and Circuits](http://www.mathcs.emory.edu/~rg/book/chap5.pdf)
 * 11/19/2019: 146.[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/).
    * [LRU原理](https://zhuanlan.zhihu.com/p/34133067)  
    * [hash-based map vs tree-based map](https://www.geeksforgeeks.org/map-vs-unordered_map-c/)
