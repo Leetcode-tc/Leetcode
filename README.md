@@ -19,4 +19,4 @@ Leetcode solutions
    * [Cycles and Circuits](http://www.mathcs.emory.edu/~rg/book/chap5.pdf)
 * 11/19/2019: 146.[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/).
    * [LRU原理](https://zhuanlan.zhihu.com/p/34133067)  
-   * [hash-based map vs tree-based map](https://www.geeksforgeeks.org/map-vs-unordered_map-c/)
+   * [hash-based map vs tree-based map](https://stackoverflow.com/questions/2889777/difference-between-hashmap-linkedhashmap-and-treemap)
