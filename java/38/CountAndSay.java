@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 /**
  * @author: create by nadao
  * @version: v1.0
