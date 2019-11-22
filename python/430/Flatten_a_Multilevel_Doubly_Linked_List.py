@@ -19,16 +19,23 @@ class Solution(object):
             if p.child:
                 if p.next:
                     next = p.next
-                    next.pre = None
+                    next.prev = None
                     stack.append(next)
                 p.next = p.child
                 p.child = None
-                p.next.pre = p
+                p.next.prev = p
             pre = p
             p = p.next
             if not p and len(stack)>0:
                 node = stack.pop()
                 pre.next = node
-                node.pre = pre
+                node.prev = pre
                 p = node
         return head
+
+# 遍历
+# 没有child就跳next
+# 有child就把next压栈，修改自身next和child的prev，然后跳child
+# 重复2，3，直到没有next执行5
+# 出栈获取当前层上一层的中断点，将其与当前层的尾节点连上
+# 重复2，3，4，5直到next为null，栈为空
