@@ -1,3 +1,5 @@
+# 强烈抗议，每日一题请考虑菜鸡感受。。不要太过分。。。
+
 # Leetcode
 Leetcode solutions
 ## 文件路径命名规范：  
