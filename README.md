@@ -11,9 +11,10 @@ Leetcode solutions
   
 ## 每日一题  
 
-873.[最长的斐波那契子序列的长度](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/).  
+319.[灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/).  
 
 ## 最近一周  
+* 11/22/2019: 873.[最长的斐波那契子序列的长度](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/).  
 * 11/21/2019: 322.[零钱兑换](https://leetcode-cn.com/problems/coin-change/).  
    * [背包九讲](https://www.kancloud.cn/kancloud/pack/70125)
 * 11/20/2019: 753.[破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe/).  
