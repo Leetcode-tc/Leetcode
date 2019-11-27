@@ -11,7 +11,8 @@ Leetcode solutions
   
 ## 每日一题  
 
-33.[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/).  
+56.[合并区间](https://leetcode-cn.com/problems/merge-intervals/).  
+877.[石子游戏](https://leetcode-cn.com/problems/stone-game/)
 
 ## 最近一周  
 * 11/23/2019: 319.[灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/). 
