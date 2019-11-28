@@ -11,7 +11,7 @@ Leetcode solutions
   
 ## 每日一题  
 
-1140.[石子游戏II]https://leetcode-cn.com/problems/stone-game-ii/
+1140.[石子游戏II](https://leetcode-cn.com/problems/stone-game-ii/)
 
 ## 最近一周
 * 11/27/2019: 56.[合并区间](https://leetcode-cn.com/problems/merge-intervals/).  
