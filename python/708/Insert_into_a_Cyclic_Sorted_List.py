@@ -32,3 +32,11 @@ class Solution:
         cur.next.next = next
         
         return head
+
+# 如果链表为空
+# 如果链表不为空
+# 如果转一圈没有找到该插入的位置，则将node插入头节点的前面
+
+
+
+    
